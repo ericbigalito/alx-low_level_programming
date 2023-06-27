@@ -1,5 +1,7 @@
-#include "main.h"
+#include <string.h>
+
 char *_memcpy(char *dest, char *src, unsigned int n)
 {
-	return (0);
+    return memcpy(dest, src, n);
 }
+
