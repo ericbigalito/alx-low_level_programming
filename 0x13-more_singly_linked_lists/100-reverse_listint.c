@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include "lists.h"
 /**
- * reverse_listint -  reversesing alinked list.
+ * reverse_listint -  reversesing alinked lists..
  * @head: point to pointer which point to linked list.
  * Return: the address of the list
  */
